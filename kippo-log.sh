@@ -8,6 +8,7 @@
 #	-f NUMBER: show files that were downloaded in the last NUMBER days
 
 
+
 KIPPO_DIR=/home/user/kippo-svn #Directory where Kippo is installed
 
 #Directories to save the log files. If the selected directories do not exist, they will be created automatically
