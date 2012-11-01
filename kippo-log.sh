@@ -9,9 +9,10 @@
 
 
 KIPPO_DIR=/home/user/kippo-svn #Directory where Kippo is installed
+
 #Directories to save the log files. If the selected directories do not exist, they will be created automatically
 INTERACTED=/home/user/logs/activity
-LOGINS=/home/twix/user/noactivity
+LOGINS=/home/user/noactivity
 
 #SQL parameters
 user=yourusername #Your SQL username
